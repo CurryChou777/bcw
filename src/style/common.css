@@ -1,0 +1,37 @@
+*{margin:0;padding:0;border:0;outline:0;font:inherit;vertical-align:baseline;-webkit-tap-highlight-color:rgba(0,0,0,0);box-sizing: border-box;font-size: 1.2rem;}
+html,body,form,fieldset,p,div,h1,h2,h3,h4,h5,h6{-webkit-text-size-adjust:none;word-wrap:break-word;word-break:break-all;}
+html{font-size: 62.5%;}
+body{margin:0 auto;min-width:320px;max-width:100%;font-family:"Microsoft YaHei",Arial,"Helvetica";background:#F5F5F5;color:#3C4347;font-size:1.2rem;height: 100%;}
+ol,ul,li{list-style:none}
+table{border-collapse:collapse;border-spacing:0}
+mark{background: none;}
+h1,h2,h3,h4,h5,h6{font-weight:normal}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+strong,var,em,i{font-style:normal;font-weight:normal}
+a{text-decoration:none;color:rgba(60,67,71,1);;}
+img{display:inline-block;width:100%;vertical-align:middle;}
+del{text-decoration:line-through}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+input[type="number"]{-moz-appearance:textfield;}
+input, select, textarea,button {font-size: 14px;resize: none;outline: 0;  font-family:Microsoft Yahei, Tahoma, Helvetica, Arial,sans-serif; -webkit-appearance:none; /*去除系统默认的样式*/
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background:none;  /* 点击高亮的颜色*/}
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button { -webkit-appearance: none; }
+.clearfix{zoom: 1;}
+.clearfix:after {content: ".";clear: both;display: block;height: 0;visibility: hidden;}
+.clearall{clear: both;}
+.fl{float: left;}
+.fr{float: right;}
+.box{width: 100%;}
+.redTxt{color: rgba(255,67,72,1);}
+.grayTxt{color:#999;}
+.paddingTop{padding-top: 50px;}
+.paddingBottom{padding-bottom: 56px;}
+.textHidden{overflow: hidden; white-space: nowrap; text-overflow: ellipsis; -o-text-overflow: ellipsis; padding-left: 0;}
